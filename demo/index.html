@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>wrs-v0.02 demo</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      let custom = {
+      }
+      wrs_widget('inputWidget', custom);
+    });
+  </script>
+
+</head>
+
+<body>
+
+  <div id="inputWidget" data-min="-1" data-max="1" data-value=".5" data-step=".1"></div>
+
+  <script src="wrs.v0.02.js"></script>
+</body>
+
+</html>
