@@ -1,13 +1,13 @@
-# [Widget-Type: Range Slider](http://georgeosddev.github.com/markdown-edit)
+# [widget-type-range](https://github.com/paraNorth/widget-type-range)
 
-This is a online markdown editor/viewer.<br>
+This is an alternative to HTML5s input range slider.<br>
 This help you to edit markdown document with the power of web technology.
 
 [![Screen Shot](images/ScreenShot.png)](http://georgeosddev.github.com/markdown-edit)
 
-## Quick Start
+## Quick Example
 
-Try on [Demo](http://georgeosddev.github.com/markdown-edit) page.<br>
+Try [Demo](https://paranorth.github.io/widget-type-range/) page.<br>
 Or Install on your local PC. Check [Guide](#on-your-local-pc) to how to install.
 
 ## Feature
