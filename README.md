@@ -1,9 +1,8 @@
 # [widget-type-range](https://github.com/paraNorth/widget-type-range)
 
-This is an alternative to HTML5s input range slider.<br>
-This help you to edit markdown document with the power of web technology.
+This widget is simple to style alternative to HTML5s input range slider.<br>
 
-[![Screen Shot](images/ScreenShot.png)](http://georgeosddev.github.com/markdown-edit)
+[![Screen Shot](img/wtr_show.png)](https://github.com/paraNorth/widget-type-range/docs/)
 
 ## Quick Example
 
