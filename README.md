@@ -2,11 +2,11 @@
 
 Simple to style alternative to the HTML5 input type range.<br>
 
-[![Screen Shot]](https://github.com/paraNorth/widget-type-range/docs/1.png)
+[![Screen Shot]](https://github.com/paraNorth/widget-type-range/tree/master/docs/1.png)
 
 ## Quick Example
 
-Try the [Demo](https://paranorth.github.io/widget-type-range/tree/master/docs/1.png)<br>
+Try the [Demo](https://paranorth.github.io/widget-type-range/docs/)<br>
 
 ## Feature
 ### Editor
