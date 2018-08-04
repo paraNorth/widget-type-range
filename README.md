@@ -7,8 +7,7 @@ This help you to edit markdown document with the power of web technology.
 
 ## Quick Example
 
-Try [Demo](https://paranorth.github.io/widget-type-range/) page.<br>
-Or Install on your local PC. Check [Guide](#on-your-local-pc) to how to install.
+Try the [Demo](https://paranorth.github.io/widget-type-range/)<br>
 
 ## Feature
 ### Editor
