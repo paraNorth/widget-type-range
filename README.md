@@ -1,8 +1,8 @@
 # [widget-type-range](https://github.com/paraNorth/widget-type-range)
 
-simple to style alternative to HTML5s input range slider.<br>
+Simple to style alternative to the HTML5 input type range.<br>
 
-[![Screen Shot](img/wtr_show.png)](https://github.com/paraNorth/widget-type-range/docs/)
+[![Screen Shot]](https://github.com/paraNorth/widget-type-range/docs/1.png)
 
 ## Quick Example
 
