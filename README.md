@@ -1,4 +1,4 @@
-# [widget-type-range](https://github.com/paraNorth/widget-type-range)
+# <p align="center">[widget-type-range](https://github.com/paraNorth/widget-type-range)</p>
 
 Simple to style alternative to the HTML5 input type range.<br>
 
