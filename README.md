@@ -43,8 +43,8 @@ If you want to see raw html what [Github's API](http://developer.github.com/v3/m
 
 ## Licence
 
-Source code can be found on [github](https://github.com/georgeOsdDev/markdown-edit), licenced under [MIT](http://opensource.org/licenses/mit-license.php).
+Source code can be found on [github](https://github.com/paraNorth/widget-type-range), licenced under [MIT](http://opensource.org/licenses/mit-license.php).
 
-Developed by [Chris Dorman](http://about.me/takeharu.oshida)
+Developed by [Chris Dorman](https://paraNorth.com)
 
     
