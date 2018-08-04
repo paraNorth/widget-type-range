@@ -6,7 +6,7 @@ Simple to style alternative to the HTML5 input type range.<br>
 
 ## Quick Example
 
-Try the [Demo](https://paranorth.github.io/widget-type-range/)<br>
+Try the [Demo](https://paranorth.github.io/widget-type-range/tree/master/docs/1.png)<br>
 
 ## Feature
 ### Editor
