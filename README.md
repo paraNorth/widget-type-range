@@ -1,4 +1,4 @@
-# [Markdown Edit](http://georgeosddev.github.com/markdown-edit)
+# [Widget-Type: Range Slider](http://georgeosddev.github.com/markdown-edit)
 
 This is a online markdown editor/viewer.<br>
 This help you to edit markdown document with the power of web technology.
