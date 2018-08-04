@@ -2,7 +2,7 @@
 
 Simple to style alternative to the HTML5 input type range.<br>
 
-[![Screen Shot](1.png)](https://github.com/paraNorth/widget-type-range/tree/master/docs/)
+[![Screen Shot](tree/master/docs/1.png)](https://github.com/paraNorth/widget-type-range/)
 
 ## Quick Example
 
